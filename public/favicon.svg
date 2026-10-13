@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <!-- H letter stem left -->
+  <path d="M16 16V48" stroke="#0099e5" stroke-width="6" stroke-linecap="round"/>
+  <!-- H letter dot above left stem (matching HyRecruit logo motif) -->
+  <circle cx="16" cy="11" r="3.5" fill="#12b839"/>
+  <!-- H letter stem right -->
+  <path d="M30 16V48" stroke="#0099e5" stroke-width="6" stroke-linecap="round"/>
+  <!-- H letter dot above right stem -->
+  <circle cx="30" cy="11" r="3.5" fill="#12b839"/>
+  <!-- H crossbar -->
+  <path d="M16 32H30" stroke="#0099e5" stroke-width="6" stroke-linecap="round"/>
+  <!-- AI symbol -->
+  <text x="36" y="44" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="20" font-weight="800" fill="#12b839">AI</text>
+</svg>
